@@ -1,6 +1,6 @@
 # 🎓 University Landing Page – HITEC University
 
-This is **Day 2** of my 30-day web development challenge.  
+This is **Day 1** of my 30-day web development challenge.  
 The project is a **responsive landing page** for HITEC University, created using **HTML** and **CSS**.
 
 ## 📌 Features
