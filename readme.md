@@ -21,3 +21,6 @@ The project is a **responsive landing page** for HITEC University, created using
 ## 🌐 Live Demo
 [View Page on GitHub Pages]
 ## 📁 Folder Structure
+├── index.html
+├── style.css
+└── README.md
