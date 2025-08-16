@@ -18,7 +18,8 @@
 ![alt text](image.png)
 ![alt text](image-1.png)
 ## 🌐 Live Demo
-[View Page on GitHub Pages]
+[[View Page on GitHub Pages]](https://sameeraafridi.github.io/university-landing-page/
+)
 ## 📁 Folder Structure
 ├── index.html
 ├── style.css
